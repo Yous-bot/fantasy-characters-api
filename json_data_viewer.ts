@@ -26,7 +26,7 @@ interface Character {
 
 const loadJsonData = (): Character[] => {
   try {
-    const data = fs.readFileSync('fantasy-characters.json', 'utf8');
+    const data = fs.readFileSync('json.txt', 'utf8');
     return JSON.parse(data);
   } catch (error) {
     console.error("Error reading JSON file:", error);
