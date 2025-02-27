@@ -1,0 +1,62 @@
+[
+  {
+    "id": "CH-001",
+    "name": "Storm Guardian",
+    "description": "A fierce protector of the skies, wielding the power of thunder and wind to defend his homeland.",
+    "age": 312,
+    "isActive": true,
+    "birthDate": "1712-06-14",
+    "imageUrl": "https://example.com/images/storm-guardian.jpg",
+    "rarity": "Mythic",
+    "abilities": ["Lightning Strike", "Wind Shield", "Sky Dash"],
+    "element": "Air",
+    "guildAffiliation": {
+      "id": "GUILD-003",
+      "name": "Stormborn Order",
+      "guildMaster": "Zephyr King",
+      "guildEmblemUrl": "https://example.com/images/guilds/stormborn-order.jpg",
+      "foundedYear": 1482,
+      "motto": "Ride the Winds, Command the Storm"
+    }
+  },
+  {
+    "id": "CH-002",
+    "name": "Ember Witch",
+    "description": "A master of fire magic, capable of conjuring devastating flames and enchanting weapons with infernal energy.",
+    "age": 217,
+    "isActive": false,
+    "birthDate": "1807-09-22",
+    "imageUrl": "https://example.com/images/ember-witch.jpg",
+    "rarity": "Epic",
+    "abilities": ["Fireball", "Flame Enchantment", "Phoenix Rebirth"],
+    "element": "Fire",
+    "guildAffiliation": {
+      "id": "GUILD-007",
+      "name": "Flame Coven",
+      "guildMaster": "Inferno Mistress",
+      "guildEmblemUrl": "https://example.com/images/guilds/flame-coven.jpg",
+      "foundedYear": 1654,
+      "motto": "From Ashes, We Rise"
+    }
+  },
+  {
+    "id": "CH-003",
+    "name": "Glacial Sentinel",
+    "description": "A stoic warrior infused with the power of ice, freezing enemies in their tracks.",
+    "age": 405,
+    "isActive": true,
+    "birthDate": "1619-12-03",
+    "imageUrl": "https://example.com/images/glacial-sentinel.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Ice Barricade", "Frostbite Slash", "Frozen Time"],
+    "element": "Ice",
+    "guildAffiliation": {
+      "id": "GUILD-002",
+      "name": "Frozen Vanguard",
+      "guildMaster": "Arctic Emperor",
+      "guildEmblemUrl": "https://example.com/images/guilds/frozen-vanguard.jpg",
+      "foundedYear": 1375,
+      "motto": "Cold as Ice, Strong as Stone"
+    }
+  }
+]
